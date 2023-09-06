@@ -1,0 +1,5 @@
+psutil
+pyproj
+pywin32
+pywinauto
+tkintermapview
